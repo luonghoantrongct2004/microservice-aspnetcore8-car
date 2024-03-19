@@ -1,0 +1,6 @@
+@Car.Service.ProductMicroservice.Presentation_HostAddress = http://localhost:5195
+
+GET {{Car.Service.ProductMicroservice.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
